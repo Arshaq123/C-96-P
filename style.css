@@ -1,0 +1,47 @@
+button{
+    border-color: green;
+    border-style: dotted;
+    cursor: pointer;
+    color: orangered;
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: green;
+}
+body{
+    background-color: greenyellow;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: orange;
+    border-style: solid;
+}
+#logout
+{
+	font-size: 20px; float: right;
+    margin-right: 1cm;
+    padding-right: 2cm;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+#addroom
+{
+    margin-top: 1cm;
+}
+#img
+{
+    width: 100px;
+    height: 100px;
+}
